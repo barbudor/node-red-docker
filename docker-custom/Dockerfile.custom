@@ -1,5 +1,5 @@
-ARG ARCH=amd64
-ARG NODE_VERSION=12
+ARG ARCH=i386
+ARG NODE_VERSION=10
 ARG OS=alpine
 
 #### Stage BASE ########################################################################################################
