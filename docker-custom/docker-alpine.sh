@@ -13,4 +13,4 @@ docker build --rm --no-cache \
     --build-arg BUILD_DATE="$(date +"%Y-%m-%dT%H:%M:%SZ")" \
     --build-arg TAG_SUFFIX=default \
     --file Dockerfile.custom \
-    --tag nodered/node-red:2.1.4-14 .
+    --tag nodered/node-red:2.1.5-14 .
